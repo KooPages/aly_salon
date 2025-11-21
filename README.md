@@ -1,2 +1,1 @@
-### Patrocinada por KOOWEXA
-servicio de Aly salón de belleza
+# Aly salón de belleza
